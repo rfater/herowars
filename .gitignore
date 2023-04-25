@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/Debug/net7.0
+/HeroesConsoleApplication/bin/Debug/net7.0
+/HeroesConsoleApplication/obj
+/HeroesLib/bin/Debug/net7.0
+/HeroesLib/obj
+/obj
+/HeroesLibTests/bin/Debug/net7.0
+/HeroesLibTests/obj
